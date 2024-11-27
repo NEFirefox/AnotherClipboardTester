@@ -12,9 +12,10 @@ void main() {
   runApp(const ClipboardTest());
   doWhenWindowReady(() {
     final win = appWindow;
-    const initialSize = Size(700, 1000);
-    win.minSize = initialSize;
+    const initialSize = Size(600, 800);
+    const minSize = Size(300, 400);
     win.size = initialSize;
+    win.minSize = minSize;
     win.alignment = Alignment.center;
     win.title = "剪贴板测试程序 - 代码小风";
     win.show();
