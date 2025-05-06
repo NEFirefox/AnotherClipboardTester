@@ -1,6 +1,7 @@
 # 剪贴板测试程序
 
-
+fork from daimaxiaofeng,用作学习，和*抄点实现*来完成*学校要求的课题*，哎我们的Web开发和神必的软件工程课，~~害人不浅~~
+---
 
 > 感谢大家的支持，这里是 [B 站传送门](https://www.bilibili.com/video/BV1zWzwYkEtf/) 。
 
